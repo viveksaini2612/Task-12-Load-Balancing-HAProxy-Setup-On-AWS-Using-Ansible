@@ -1,1 +1,1 @@
-# Task-12-Load-Balancing-HAProxy-Setup-On-AWS-Using-Ansible
+# Load-Balancing-HAProxy-Setup-On-AWS-Using-Ansible
